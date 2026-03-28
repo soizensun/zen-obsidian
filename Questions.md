@@ -4,3 +4,5 @@
 - Are there courseId in AR? and มีได้ยังไง
 - Why the institutionId cannot store in AR
 	- ถ้าไม่มี -> course -> courseCurriculum (select curruculumCode equal to curriculum code) -> institution
+
+
