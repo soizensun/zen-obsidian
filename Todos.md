@@ -4,5 +4,14 @@
 - [x] adsf ✅ 2026-03-28
 - [x] kk
 - [x] adcgadfg
-			- [ ] Jajam
-- [ ] 
+- [ ] Jajam
+{{date}}
+{{time}}
+
+***16-01-1996***
+
+
+*asdfasdf*
+
+
+<% tp.date %>
