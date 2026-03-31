@@ -1,17 +1,7 @@
-- [x] adf ✅ 2026-03-28
-- [x] asdfasdf
-- [/] adsf
-- [x] adsf ✅ 2026-03-28
-- [x] kk
-- [x] adcgadfg
-- [ ] Jajam
-{{date}}
-{{time}}
-
-***16-01-1996***
+- [ ] Fix bug start-review credit transfer request.
 
 
-*asdfasdf*
-
-
-<% tp.date %>
+### NCBS this sprint
+- [ ] Design student passbook .
+- [ ] Normalize AR tables
+- [ ] 
