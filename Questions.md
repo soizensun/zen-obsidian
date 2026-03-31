@@ -7,3 +7,9 @@
 - connented data in second times.
 
 
+
+- [ ] search limit -> exact search
+- [ ] download format
+- [ ] column setting ?
+- [ ] add "ดูรายละเอียด"
+- [ ] วิธีการได้รับ ประ
